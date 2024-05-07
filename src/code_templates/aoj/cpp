@@ -1,0 +1,14 @@
+/*
+{問題ID} - {タイトル}
+実行時間制限： {実行時間制限}s
+メモリ制限： {メモリ制限}KB
+正解率： {正解率}%
+From: {提供元}
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    return 0;
+}
