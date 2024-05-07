@@ -25,7 +25,7 @@ You can change the folder or file name rules by editing the `get_folder_name()` 
 
 ## Create AtCoder Folder
 ```
-$ atcoderprepare.py {ContestID}|{ContestURL}
+$ atcoderprepare.py {ProblemID}|{ProblemID}
 ```
 
 By default, the folder structure is as below.
@@ -72,7 +72,7 @@ You can modify the template file to suit your needs.
 ## Run the Test
 
 ```
-$ autotest.py {Folder/FilePath}
+$ autotest.py {Folder|FilePath}
 ```
 
 The above command runs the test and compares the output with the expected output.
